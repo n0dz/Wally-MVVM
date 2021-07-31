@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wally</string>
+    <string name="api_key">21942328-3b403fd14df4f4bef82d7991b</string>
+    <string name="search_images">Search Images</string>
+    <string name="go">go</string>
+    <string name="nw_error">No internet connection please connect to a network and launch the app again</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

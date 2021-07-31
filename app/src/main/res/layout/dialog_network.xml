@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/btn_color"
+        android:padding="8dp"
+        >
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center"
+            android:background="@drawable/bg_nointernet"
+            android:src="@drawable/ic_baseline_error_24"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_marginTop="-5dp"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:text="OOps!! Seems Like Internet is Down"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <ProgressBar
+            android:id="@+id/loading_no_internet"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+       <!-- <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_quit_app"
+            android:text="EXIT"
+            android:elevation="8dp"
+            android:padding="8dp"
+            app:rippleColor="@color/colorPrimaryDark"
+            android:backgroundTint="@color/white"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>-->
+
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>
