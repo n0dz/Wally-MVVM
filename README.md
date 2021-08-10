@@ -12,13 +12,15 @@ Android app to download wallpapers.
 
 ### Search Wallpaper.
 
-https://user-images.githubusercontent.com/43600925/127742219-08213b95-bd95-4b7e-a687-1c1321b014fc.mp4
+https://user-images.githubusercontent.com/43600925/128902366-d3aac424-e8b8-4c86-a035-391d801cbfe2.mp4
 
 ### Browse Wallpaper Categories.
 
-https://user-images.githubusercontent.com/43600925/127742221-3dd0b76a-996e-495f-87b6-efaa58682ca2.mp4
+https://user-images.githubusercontent.com/43600925/128902563-7c4de239-8fd3-4209-b6dd-b23b8ae26b79.mp4
 
-### Share with friends.
 
-https://user-images.githubusercontent.com/43600925/127742224-34f973bd-afd4-4148-a21b-88f97e245348.mp4
+### Network detection.
+
+https://user-images.githubusercontent.com/43600925/128902670-b1161c55-d3d2-45e0-a2b1-ddba91531382.mp4
+
 
